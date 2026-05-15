@@ -1,10 +1,9 @@
 # NLP News Classification using RNN, LSTM, and GRU
 
-## Student Information
 - **Name:** Aklilu Berihu  
 - **ID:** 187842/16  
 - **Section:** 1  
-- **Course:** AI Assignment  
+- **Course:** AI 
 - **Project Title:** NLP Application – Text Classification  
 
 ---
@@ -242,9 +241,3 @@ GRU also performed very well while training faster because of its simpler archit
 Vanilla RNN showed unstable learning behavior because of the vanishing gradient problem.
 
 ---
-
-# Author
-
-**Aklilu Berihu**  
-BSc in Computer Science and Engineering  
-AI Assignment – NLP Application
